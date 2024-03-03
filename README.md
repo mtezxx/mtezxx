@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mtezxx" alt="mtezxx" /></a> </p>
 
-- 🌱 I’m currently learning **C#, .NET , Java , JavaScript etc...**
+- 🌱 I’m currently learning **C#, C , Java , JavaScript etc...**
 
 - 📫 How to reach me **matejkucera@icloud.com**
 
